@@ -1000,6 +1000,7 @@ requirements:requirements_parser
 rest_framework:djangorestframework
 restclient:py_restclient
 retrial:async_retrial
+reversion:django-reversion
 reversion:django_reversion
 rhaptos2:rhaptos2.common
 robot:robotframework
@@ -1123,6 +1124,7 @@ webdav:Zope2
 weblogolib:weblogo
 webob:WebOb
 websocket:websocket_client
+webstack_django_sorting:webstack-django-sorting
 webtest:WebTest
 werkzeug:Werkzeug
 wheezy:wheezy.caching
