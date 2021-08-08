@@ -22,6 +22,7 @@ Kittens:astro_kittens
 Levenshtein:python_Levenshtein
 Lifetime:Zope2
 MethodObject:ExtensionClass
+MySQL-python:MySQLdb
 OFS:Zope2
 OpenGL:PyOpenGL
 OpenSSL:pyOpenSSL
@@ -230,6 +231,7 @@ anybox:anybox.paster.odoo
 anybox:anybox.paster.openerp
 anybox:anybox.recipe.sysdeps
 anybox:anybox.scripts.odoo
+anymail:django-anymail
 apiclient:google_api_python_client
 apitools:google_apitools
 apm:arpm
@@ -570,6 +572,7 @@ courseradownloader:coursera_dl
 cow:cow_framework
 creole:python_creole
 creoleparser:Creoleparser
+crispy_forms:django-crispy-forms
 crispy_forms:django_crispy_forms
 cronlog:python_crontab
 crontab:python_crontab
@@ -583,6 +586,7 @@ dateutil:python_dateutil
 dawg:DAWG
 deb822:python_debian
 debian:python_debian
+debug_toolbar:django-debug-toolbar
 decouple:python-decouple
 demo:webunit
 demosongs:PySynth
@@ -594,9 +598,12 @@ dhtmlparser:pyDHTMLParser
 digitalocean:python_digitalocean
 distribute_setup:ez_setup
 distutils2:Distutils2
+dj_pagination:dj-pagination
 django:Django
+django_extensions:django-extensions
 django_hstore:amitu_hstore
 djangobower:django_bower
+djangosecure:django-secure
 djcelery:django_celery
 djkombu:django_kombu
 djorm_pgarray:djorm_ext_pgarray
@@ -626,6 +633,7 @@ enchant:pyenchant
 encutils:cssutils
 engineio:python_engineio
 enum:enum34
+environ:django-environ
 ephem:pyephem
 errorreporter:abl.errorreporter
 esplot:beaker_es_plot
@@ -649,6 +657,7 @@ flask:Flask
 flask_frozen:Frozen_Flask
 flask_redis:Flask_And_Redis
 flaskext:Flask_Bcrypt
+floppyforms:django-floppyforms
 flvscreen:vnc2flv
 followit:django_followit
 forge:pyforge
@@ -675,6 +684,7 @@ geventwebsocket:gevent_websocket
 gflags:python_gflags
 git:GitPython
 github:PyGithub
+gitlab:python-gitlab
 gitpy:git_py
 globusonline:globusonline_transfer_api_client
 google:protobuf
@@ -701,7 +711,6 @@ html:pies2overrides
 htmloutput:nosehtmloutput
 http:pies2overrides
 hvad:django_hvad
-krbV:krbv
 i99fix:199Fix
 igraph:python_igraph
 imdb:IMDbPY
@@ -718,6 +727,7 @@ jpiarea:python_geohash
 jpype:JPype1
 jpypex:JPype1
 jsonfield:django_jsonfield
+jsonview:django-jsonview
 jstools:aino_jstools
 jupyterpip:jupyter_pip
 jwt:PyJWT
@@ -727,6 +737,7 @@ keyczar:python_keyczar
 keyedcache:django_keyedcache
 keystoneclient:python_keystoneclient
 kickstarter:kickstart
+krbV:krbv
 kss:kss.core
 kuyruk:Kuyruk
 langconv:AdvancedLangConv
@@ -798,7 +809,6 @@ msgpack:msgpack_python
 mutations:aino_mutations
 mws:amazon_mws
 mysql:mysql_connector_repackaged
-MySQL-python:MySQLdb
 native_tags:django_native_tags
 ndg:ndg_httpsclient
 nereid:trytond_nereid
@@ -927,6 +937,7 @@ printList:AndrewList
 progressbar:progressbar2
 progressbar:progressbar33
 provider:django_oauth2_provider
+psycopg2:psycopg2-binary
 puresasl:pure_sasl
 pwiz:peewee
 pxssh:pexpect
@@ -1013,6 +1024,7 @@ sdict:dict.sorted
 sdk_updater:android_sdk_updater
 sekizai:django_sekizai
 sendfile:pysendfile
+sentry_sdk:sentry-sdk
 serial:pyserial
 setuputils:astor
 shapefile:pyshp
@@ -1026,6 +1038,8 @@ slack:slackclient
 slugify:unicode_slugify
 smarkets:smk_python_sdk
 snappy:ctypes_snappy
+social_core:social-auth-core
+social_django:social-auth-app-django
 socketio:gevent_socketio
 socketserver:pies2overrides
 sockjs:sockjs_tornado
@@ -1072,6 +1086,7 @@ trac:Trac
 tracopt:Trac
 translation_helper:android_localization_helper
 treebeard:django_treebeard
+trove_classifiers:trove-classifiers
 trytond:trytond_stock
 tsuru:tsuru_circus
 tvrage:python_tvrage
@@ -1103,6 +1118,7 @@ validate:configobj
 version:chartio
 virtualenvapi:ar_virtualenv_api
 vyatta:brocade_plugins
+waffle:django-waffle
 webdav:Zope2
 weblogolib:weblogo
 webob:WebOb
